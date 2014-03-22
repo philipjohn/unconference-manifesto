@@ -1,0 +1,4 @@
+name: The Unconference Manifesto
+markdown: redcarpet
+pygments: true
+baseurl: /unconference-manifesto
