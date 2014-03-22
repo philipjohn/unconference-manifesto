@@ -2,3 +2,6 @@ name: The Unconference Manifesto
 markdown: redcarpet
 pygments: true
 baseurl: /unconference-manifesto
+org_name: philipjohn
+repo_name: unconference-manifesto
+prose_branch: gh-pages
